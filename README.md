@@ -9,7 +9,8 @@
 </centre>
 
 # Support
-> hey there, You can subscribe <a href="instagram.com/xx_xwalidxx">My instagram>Mr Idealhat</a> for interesting videos OR follow <a href="instagram.com/xx_xwalidxx">Walid Makdoud</a>
+> hey there, You can subscribe <a href="https://www.instagram.com/xx_xwalidxx">Walid Makdoud</a> for interesting videos OR follow <a href="https://www.instagram.com/xx_xwalidxx">Walid Makdoud.
+
 
 # Fake Root Privileges
 This tool helps you to access the fake root privileges in termux. To access the fake root privileges in termux, just type <pre>fakeroot</pre> in termux. And here you go, Now you have gain the fake root privileges access in termux.
